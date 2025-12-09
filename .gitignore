@@ -1,0 +1,26 @@
+# Large pickle files
+*.pkl
+
+# Dataset files (too large for GitHub)
+Movie_database/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
